@@ -1,4 +1,4 @@
-# BetterVencord
+# BetterVencord Web
 
 BetterVencord is a patchset for Vencord (and now Equicord) that adds BetterDiscord compatibility.
 It allows BetterDiscord plugins to run in Vencord/Equicord.
